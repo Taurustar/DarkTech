@@ -1,0 +1,1251 @@
+# depslib dependency file v1.0
+1359213376 source:c:\sauerbraten\src\engine\engine.h
+	"cube.h"
+	"world.h"
+	"octa.h"
+	"lightmap.h"
+	"bih.h"
+	"texture.h"
+	"model.h"
+	"varray.h"
+
+1359213376 c:\sauerbraten\src\shared\cube.h
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdarg.h>
+	<limits.h>
+	<assert.h>
+	<time.h>
+	"windows.h"
+	<eh.h>
+	<dbghelp.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_opengl.h>
+	<enet/enet.h>
+	<zlib.h>
+	"tools.h"
+	"geom.h"
+	"ents.h"
+	"command.h"
+	"iengine.h"
+	"igame.h"
+
+1359213376 c:\sauerbraten\src\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_platform.h
+
+1359213376 c:\sauerbraten\src\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1359213376 c:\sauerbraten\src\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1359213376 c:\sauerbraten\src\include\begin_code.h
+
+1359213376 c:\sauerbraten\src\include\close_code.h
+
+1359213376 c:\sauerbraten\src\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_keysym.h
+
+1359213376 c:\sauerbraten\src\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_opengl.h
+	"SDL_config.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<gl.h>
+	<glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<stddef.h>
+
+1359213376 c:\sauerbraten\src\enet\include\enet\enet.h
+	<stdlib.h>
+	"enet/win32.h"
+	"enet/unix.h"
+	"enet/types.h"
+	"enet/protocol.h"
+	"enet/list.h"
+	"enet/callbacks.h"
+
+1359213376 c:\sauerbraten\src\enet\include\enet\win32.h
+	<stdlib.h>
+	<winsock2.h>
+
+1359213376 c:\sauerbraten\src\enet\include\enet\unix.h
+	<stdlib.h>
+	<sys/time.h>
+	<sys/types.h>
+	<netinet/in.h>
+	<unistd.h>
+
+1359213376 c:\sauerbraten\src\enet\include\enet\types.h
+
+1359213376 c:\sauerbraten\src\enet\include\enet\protocol.h
+	"enet/types.h"
+
+1359213376 c:\sauerbraten\src\enet\include\enet\list.h
+	<stdlib.h>
+
+1359213376 c:\sauerbraten\src\enet\include\enet\callbacks.h
+	<stdlib.h>
+
+1359213376 c:\sauerbraten\src\include\zlib.h
+	"zconf.h"
+
+1359213376 c:\sauerbraten\src\include\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1377141068 c:\sauerbraten\src\shared\tools.h
+
+1359213376 c:\sauerbraten\src\shared\geom.h
+
+1359213376 c:\sauerbraten\src\shared\ents.h
+
+1359213376 c:\sauerbraten\src\shared\command.h
+
+1359213376 c:\sauerbraten\src\shared\iengine.h
+
+1359213376 c:\sauerbraten\src\shared\igame.h
+
+1359213376 c:\sauerbraten\src\engine\world.h
+
+1359213376 c:\sauerbraten\src\engine\octa.h
+
+1359213376 c:\sauerbraten\src\engine\lightmap.h
+
+1359213376 c:\sauerbraten\src\engine\bih.h
+
+1359213376 c:\sauerbraten\src\engine\texture.h
+
+1359213376 c:\sauerbraten\src\engine\model.h
+
+1359213376 c:\sauerbraten\src\engine\varray.h
+
+1377140489 source:c:\sauerbraten\src\engine\3dgui.cpp
+	"engine.h"
+	"textedit.h"
+
+1359213376 c:\sauerbraten\src\engine\engine.h
+	"cube.h"
+	"world.h"
+	"octa.h"
+	"lightmap.h"
+	"bih.h"
+	"texture.h"
+	"model.h"
+	"varray.h"
+
+1359213376 c:\sauerbraten\src\engine\textedit.h
+
+1359213376 source:c:\sauerbraten\src\engine\bih.cpp
+	"engine.h"
+
+1359213376 source:c:\sauerbraten\src\engine\blend.cpp
+	"engine.h"
+
+1359213376 source:c:\sauerbraten\src\engine\blob.cpp
+	"engine.h"
+
+1359213376 source:c:\sauerbraten\src\engine\client.cpp
+	"engine.h"
+
+1359213376 source:c:\sauerbraten\src\engine\command.cpp
+	"engine.h"
+
+1359213376 source:c:\sauerbraten\src\engine\console.cpp
+	"engine.h"
+	<X11/Xlib.h>
+	<SDL_syswm.h>
+
+1359213376 c:\sauerbraten\src\include\sdl_syswm.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_version.h"
+	"begin_code.h"
+	<X11/Xlib.h>
+	<X11/Xatom.h>
+	<microwin/nano-X.h>
+	<windows.h>
+	<sys/neutrino.h>
+	<Ph.h>
+	"close_code.h"
+
+1359213376 source:c:\sauerbraten\src\engine\cubeloader.cpp
+	"engine.h"
+
+1359213376 source:c:\sauerbraten\src\engine\decal.cpp
+	"engine.h"
+
+1359213376 source:c:\sauerbraten\src\engine\dynlight.cpp
+	"engine.h"
+
+1359213376 source:c:\sauerbraten\src\engine\glare.cpp
+	"engine.h"
+	"rendertarget.h"
+
+1359213376 c:\sauerbraten\src\engine\rendertarget.h
+
+1359213376 source:c:\sauerbraten\src\engine\grass.cpp
+	"engine.h"
+
+1359213376 source:c:\sauerbraten\src\engine\lightmap.cpp
+	"engine.h"
+
+1359213376 source:c:\sauerbraten\src\engine\main.cpp
+	"engine.h"
+
+1359213376 source:c:\sauerbraten\src\engine\material.cpp
+	"engine.h"
+
+1359213376 source:c:\sauerbraten\src\engine\menus.cpp
+	"engine.h"
+
+1359213376 source:c:\sauerbraten\src\engine\movie.cpp
+	"engine.h"
+	"SDL_mixer.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359213376 c:\sauerbraten\src\include\sdl_types.h
+	"SDL_stdinc.h"
+
+1359213376 source:c:\sauerbraten\src\engine\normal.cpp
+	"engine.h"
+
+1359213376 source:c:\sauerbraten\src\engine\octa.cpp
+	"engine.h"
+
+1359213376 source:c:\sauerbraten\src\engine\octaedit.cpp
+	"engine.h"
+
+1359213376 source:c:\sauerbraten\src\engine\octarender.cpp
+	"engine.h"
+
+1359213376 source:c:\sauerbraten\src\engine\pvs.cpp
+	"engine.h"
+	"SDL_thread.h"
+
+1359213376 source:c:\sauerbraten\src\engine\rendergl.cpp
+	"engine.h"
+	"varray.h"
+
+1359213376 source:c:\sauerbraten\src\engine\rendermodel.cpp
+	"engine.h"
+	"ragdoll.h"
+	"animmodel.h"
+	"vertmodel.h"
+	"skelmodel.h"
+	"md2.h"
+	"md3.h"
+	"md5.h"
+	"obj.h"
+	"smd.h"
+	"iqm.h"
+
+1359213376 c:\sauerbraten\src\engine\ragdoll.h
+
+1359213376 c:\sauerbraten\src\engine\animmodel.h
+
+1359213376 c:\sauerbraten\src\engine\vertmodel.h
+
+1359213376 c:\sauerbraten\src\engine\skelmodel.h
+
+1359213376 c:\sauerbraten\src\engine\md2.h
+
+1359213376 c:\sauerbraten\src\engine\md3.h
+
+1359213376 c:\sauerbraten\src\engine\md5.h
+
+1359213376 c:\sauerbraten\src\engine\obj.h
+
+1359213376 c:\sauerbraten\src\engine\smd.h
+
+1359213376 c:\sauerbraten\src\engine\iqm.h
+
+1359213376 source:c:\sauerbraten\src\engine\renderparticles.cpp
+	"engine.h"
+	"rendertarget.h"
+	"depthfx.h"
+	"explosion.h"
+	"lensflare.h"
+	"lightning.h"
+
+1359213376 c:\sauerbraten\src\engine\depthfx.h
+
+1359213376 c:\sauerbraten\src\engine\explosion.h
+
+1359213376 c:\sauerbraten\src\engine\lensflare.h
+
+1359213376 c:\sauerbraten\src\engine\lightning.h
+
+1359213376 source:c:\sauerbraten\src\engine\rendersky.cpp
+	"engine.h"
+
+1359213376 source:c:\sauerbraten\src\engine\rendertext.cpp
+	"engine.h"
+
+1359213376 source:c:\sauerbraten\src\engine\renderva.cpp
+	"engine.h"
+
+1359853412 source:c:\sauerbraten\src\engine\server.cpp
+	"engine.h"
+	"shellapi.h"
+
+1359213376 source:c:\sauerbraten\src\engine\serverbrowser.cpp
+	"engine.h"
+	"SDL_thread.h"
+
+1359213376 source:c:\sauerbraten\src\engine\shader.cpp
+	"engine.h"
+
+1359213376 source:c:\sauerbraten\src\engine\shadowmap.cpp
+	"engine.h"
+	"rendertarget.h"
+
+1359213376 source:c:\sauerbraten\src\engine\sound.cpp
+	"engine.h"
+	"SDL_mixer.h"
+	<wchar.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/mman.h>
+	<fcntl.h>
+	<wchar.h>
+
+1359213376 source:c:\sauerbraten\src\engine\texture.cpp
+	"engine.h"
+	"scale.h"
+	"scale.h"
+	"scale.h"
+	"scale.h"
+
+1359213376 c:\sauerbraten\src\engine\scale.h
+
+1359213376 source:c:\sauerbraten\src\engine\water.cpp
+	"engine.h"
+
+1359213376 source:c:\sauerbraten\src\engine\world.cpp
+	"engine.h"
+
+1359213376 source:c:\sauerbraten\src\engine\worldio.cpp
+	"engine.h"
+
+1359213376 source:c:\sauerbraten\src\rpggame\ent.cpp
+	"rpg.h"
+
+1359213376 c:\sauerbraten\src\rpggame\rpg.h
+	"cube.h"
+	"stats.h"
+	"rpgent.h"
+	"rpgobj.h"
+
+1359213376 c:\sauerbraten\src\rpggame\stats.h
+
+1359213376 c:\sauerbraten\src\rpggame\rpgent.h
+
+1359213376 c:\sauerbraten\src\rpggame\rpgobj.h
+
+1359213376 source:c:\sauerbraten\src\rpggame\entities.cpp
+	"rpg.h"
+
+1359213376 source:c:\sauerbraten\src\rpggame\objset.cpp
+	"rpg.h"
+
+1359213376 source:c:\sauerbraten\src\rpggame\rpg.cpp
+	"rpg.h"
+
+1377125213 source:c:\sauerbraten\src\engine\physics.cpp
+	"engine.h"
+	"mpr.h"
+
+1359213376 c:\sauerbraten\src\engine\mpr.h
+
+1359213376 source:c:\sauerbraten\src\shared\crypto.cpp
+	"cube.h"
+
+1359213376 source:c:\sauerbraten\src\shared\geom.cpp
+	"cube.h"
+
+1359853354 source:c:\sauerbraten\src\shared\stream.cpp
+	"cube.h"
+	<shlobj.h>
+	<unistd.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<dirent.h>
+
+1359213376 source:c:\sauerbraten\src\shared\tools.cpp
+	"cube.h"
+	<unistd.h>
+
+1359213376 source:c:\sauerbraten\src\shared\zip.cpp
+	"cube.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\engine.h
+	"cube.h"
+	"world.h"
+	"octa.h"
+	"lightmap.h"
+	"bih.h"
+	"texture.h"
+	"model.h"
+	"varray.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\shared\cube.h
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdarg.h>
+	<limits.h>
+	<assert.h>
+	<time.h>
+	"windows.h"
+	<eh.h>
+	<dbghelp.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_opengl.h>
+	<enet/enet.h>
+	<zlib.h>
+	"tools.h"
+	"geom.h"
+	"ents.h"
+	"command.h"
+	"iengine.h"
+	"igame.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_platform.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\begin_code.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\close_code.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_keysym.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_opengl.h
+	"SDL_config.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<gl.h>
+	<glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<stddef.h>
+
+1359216976 c:\program files (x86)\sauerbraten\src\enet\include\enet\enet.h
+	<stdlib.h>
+	"enet/win32.h"
+	"enet/unix.h"
+	"enet/types.h"
+	"enet/protocol.h"
+	"enet/list.h"
+	"enet/callbacks.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\enet\include\enet\win32.h
+	<stdlib.h>
+	<winsock2.h>
+
+1359216976 c:\program files (x86)\sauerbraten\src\enet\include\enet\unix.h
+	<stdlib.h>
+	<sys/time.h>
+	<sys/types.h>
+	<netinet/in.h>
+	<unistd.h>
+
+1359216976 c:\program files (x86)\sauerbraten\src\enet\include\enet\types.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\enet\include\enet\protocol.h
+	"enet/types.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\enet\include\enet\list.h
+	<stdlib.h>
+
+1359216976 c:\program files (x86)\sauerbraten\src\enet\include\enet\callbacks.h
+	<stdlib.h>
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\zlib.h
+	"zconf.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1385477392 c:\program files (x86)\sauerbraten\src\shared\tools.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\shared\geom.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\shared\ents.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\shared\command.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\shared\iengine.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\shared\igame.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\world.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\octa.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\lightmap.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\bih.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\texture.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\model.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\varray.h
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\bih.cpp
+	"engine.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\engine.h
+	"cube.h"
+	"world.h"
+	"octa.h"
+	"lightmap.h"
+	"bih.h"
+	"texture.h"
+	"model.h"
+	"varray.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\blend.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\blob.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\client.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\command.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\console.cpp
+	"engine.h"
+	<X11/Xlib.h>
+	<SDL_syswm.h>
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_syswm.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_version.h"
+	"begin_code.h"
+	<X11/Xlib.h>
+	<X11/Xatom.h>
+	<microwin/nano-X.h>
+	<windows.h>
+	<sys/neutrino.h>
+	<Ph.h>
+	"close_code.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\cubeloader.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\decal.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\dynlight.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\glare.cpp
+	"engine.h"
+	"rendertarget.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\rendertarget.h
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\grass.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\lightmap.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\main.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\material.cpp
+	"engine.h"
+
+1385482381 source:c:\program files (x86)\sauerbraten\src\engine\menus.cpp
+	"engine.h"
+	"..\SQLite\SQLiteConnector.h"
+	"..\SQLite\savedGame.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\movie.cpp
+	"engine.h"
+	"SDL_mixer.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_types.h
+	"SDL_stdinc.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\normal.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\octa.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\octaedit.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\octarender.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\pvs.cpp
+	"engine.h"
+	"SDL_thread.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\rendergl.cpp
+	"engine.h"
+	"varray.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\rendermodel.cpp
+	"engine.h"
+	"ragdoll.h"
+	"animmodel.h"
+	"vertmodel.h"
+	"skelmodel.h"
+	"md2.h"
+	"md3.h"
+	"md5.h"
+	"obj.h"
+	"smd.h"
+	"iqm.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\ragdoll.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\animmodel.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\vertmodel.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\skelmodel.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\md2.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\md3.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\md5.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\obj.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\smd.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\iqm.h
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\renderparticles.cpp
+	"engine.h"
+	"rendertarget.h"
+	"depthfx.h"
+	"explosion.h"
+	"lensflare.h"
+	"lightning.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\depthfx.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\explosion.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\lensflare.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\lightning.h
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\rendersky.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\rendertext.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\renderva.cpp
+	"engine.h"
+
+1359857012 source:c:\program files (x86)\sauerbraten\src\engine\server.cpp
+	"engine.h"
+	"shellapi.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\serverbrowser.cpp
+	"engine.h"
+	"SDL_thread.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\shader.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\shadowmap.cpp
+	"engine.h"
+	"rendertarget.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\sound.cpp
+	"engine.h"
+	"SDL_mixer.h"
+	<wchar.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/mman.h>
+	<fcntl.h>
+	<wchar.h>
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\texture.cpp
+	"engine.h"
+	"scale.h"
+	"scale.h"
+	"scale.h"
+	"scale.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\scale.h
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\water.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\world.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\worldio.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\rpggame\ent.cpp
+	"rpg.h"
+
+1385263186 c:\program files (x86)\sauerbraten\src\rpggame\rpg.h
+	"cube.h"
+	"stats.h"
+	"rpgent.h"
+	"rpgobj.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\rpggame\stats.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\rpggame\rpgent.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\rpggame\rpgobj.h
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\rpggame\entities.cpp
+	"rpg.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\rpggame\objset.cpp
+	"rpg.h"
+
+1382421933 source:c:\program files (x86)\sauerbraten\src\rpggame\rpg.cpp
+	"rpg.h"
+
+1377140490 source:c:\program files (x86)\sauerbraten\src\engine\3dgui.cpp
+	"engine.h"
+	"textedit.h"
+
+1382682724 c:\program files (x86)\sauerbraten\src\engine\textedit.h
+
+1377297736 source:c:\program files (x86)\sauerbraten\src\engine\physics.cpp
+	"engine.h"
+	"mpr.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\mpr.h
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\shared\crypto.cpp
+	"cube.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\shared\geom.cpp
+	"cube.h"
+
+1359856954 source:c:\program files (x86)\sauerbraten\src\shared\stream.cpp
+	"cube.h"
+	<shlobj.h>
+	<unistd.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<dirent.h>
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\shared\tools.cpp
+	"cube.h"
+	<unistd.h>
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\shared\zip.cpp
+	"cube.h"
+
+1377475800 source:c:\program files (x86)\sauerbraten\src\rpggame\elds.rc
+	"winresrc.h"
+
+1385275956 source:c:\program files (x86)\sauerbraten\src\sqlite\savedgame.cpp
+	"savedGame.h"
+	"engine.h"
+
+1385444060 c:\program files (x86)\sauerbraten\src\sqlite\savedgame.h
+	"..\engine\engine.h"
+	"..\shared\tools.h"
+	<string.h>
+
+1383661698 source:c:\program files (x86)\sauerbraten\src\sqlite\sqlite_main.cpp
+	"sqlite3.h"
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<cstdlib>
+
+1382057852 c:\program files (x86)\sauerbraten\src\sqlite\sqlite3.h
+	<stdarg.h>
+
+1385479929 source:c:\program files (x86)\sauerbraten\src\rpggame\savegame.cpp
+	"..\engine\engine.h"
+	"rpg.h"
+	"..\SQLite\SQLiteConnector.h"
+	"..\SQLite\savedGame.h"
+
+1385482480 source:c:\program files (x86)\sauerbraten\src\sqlite\sqliteconnector.cpp
+	"SQLiteConnector.h"
+	"savedGame.h"
+
+1385444060 c:\program files (x86)\sauerbraten\src\sqlite\sqliteconnector.h
+	"..\engine\engine.h"
+	"savedGame.h"
+	"sqlite3.h"
+	<string.h>
+
+1382057852 source:c:\program files (x86)\sauerbraten\src\sqlite\sqlite3.c
+	<stdarg.h>
+	"config.h"
+	<stdint.h>
+	<inttypes.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<windows.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/file.h>
+	<sys/param.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	<sys/cygwin.h>
+	<errno.h>
+	<tcl.h>
+	"sqlite3rtree.h"
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+

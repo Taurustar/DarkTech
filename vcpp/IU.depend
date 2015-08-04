@@ -1,0 +1,1503 @@
+# depslib dependency file v1.0
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\engine.h
+	"cube.h"
+	"world.h"
+	"octa.h"
+	"lightmap.h"
+	"bih.h"
+	"texture.h"
+	"model.h"
+	"varray.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\shared\cube.h
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdarg.h>
+	<limits.h>
+	<assert.h>
+	<time.h>
+	"windows.h"
+	<eh.h>
+	<dbghelp.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_opengl.h>
+	<enet/enet.h>
+	<zlib.h>
+	"tools.h"
+	"geom.h"
+	"ents.h"
+	"command.h"
+	"iengine.h"
+	"igame.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_platform.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\begin_code.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\close_code.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_keysym.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_opengl.h
+	"SDL_config.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<gl.h>
+	<glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<stddef.h>
+
+1359216976 c:\program files (x86)\sauerbraten\src\enet\include\enet\enet.h
+	<stdlib.h>
+	"enet/win32.h"
+	"enet/unix.h"
+	"enet/types.h"
+	"enet/protocol.h"
+	"enet/list.h"
+	"enet/callbacks.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\enet\include\enet\win32.h
+	<stdlib.h>
+	<winsock2.h>
+
+1359216976 c:\program files (x86)\sauerbraten\src\enet\include\enet\unix.h
+	<stdlib.h>
+	<sys/time.h>
+	<sys/types.h>
+	<netinet/in.h>
+	<unistd.h>
+
+1359216976 c:\program files (x86)\sauerbraten\src\enet\include\enet\types.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\enet\include\enet\protocol.h
+	"enet/types.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\enet\include\enet\list.h
+	<stdlib.h>
+
+1359216976 c:\program files (x86)\sauerbraten\src\enet\include\enet\callbacks.h
+	<stdlib.h>
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\zlib.h
+	"zconf.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1385477392 c:\program files (x86)\sauerbraten\src\shared\tools.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\shared\geom.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\shared\ents.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\shared\command.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\shared\iengine.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\shared\igame.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\world.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\octa.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\lightmap.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\bih.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\texture.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\model.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\varray.h
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\fpsgame\game.h
+	"cube.h"
+	"ai.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\fpsgame\ai.h
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\shared\cube.h
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdarg.h>
+	<limits.h>
+	<assert.h>
+	<time.h>
+	"windows.h"
+	<eh.h>
+	<dbghelp.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_opengl.h>
+	<enet/enet.h>
+	<zlib.h>
+	"tools.h"
+	"geom.h"
+	"ents.h"
+	"command.h"
+	"iengine.h"
+	"igame.h"
+
+1377140490 source:c:\program files (x86)\sauerbraten\src\engine\3dgui.cpp
+	"engine.h"
+	"textedit.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\engine.h
+	"cube.h"
+	"world.h"
+	"octa.h"
+	"lightmap.h"
+	"bih.h"
+	"texture.h"
+	"model.h"
+	"varray.h"
+
+1382682724 c:\program files (x86)\sauerbraten\src\engine\textedit.h
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\bih.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\blend.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\blob.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\client.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\command.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\console.cpp
+	"engine.h"
+	<X11/Xlib.h>
+	<SDL_syswm.h>
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_syswm.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_version.h"
+	"begin_code.h"
+	<X11/Xlib.h>
+	<X11/Xatom.h>
+	<microwin/nano-X.h>
+	<windows.h>
+	<sys/neutrino.h>
+	<Ph.h>
+	"close_code.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\cubeloader.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\decal.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\dynlight.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\glare.cpp
+	"engine.h"
+	"rendertarget.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\rendertarget.h
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\grass.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\lightmap.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\main.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\material.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\movie.cpp
+	"engine.h"
+	"SDL_mixer.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\include\sdl_types.h
+	"SDL_stdinc.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\normal.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\octa.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\octaedit.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\octarender.cpp
+	"engine.h"
+
+1377297736 source:c:\program files (x86)\sauerbraten\src\engine\physics.cpp
+	"engine.h"
+	"mpr.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\mpr.h
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\pvs.cpp
+	"engine.h"
+	"SDL_thread.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\rendergl.cpp
+	"engine.h"
+	"varray.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\rendermodel.cpp
+	"engine.h"
+	"ragdoll.h"
+	"animmodel.h"
+	"vertmodel.h"
+	"skelmodel.h"
+	"md2.h"
+	"md3.h"
+	"md5.h"
+	"obj.h"
+	"smd.h"
+	"iqm.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\ragdoll.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\animmodel.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\vertmodel.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\skelmodel.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\md2.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\md3.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\md5.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\obj.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\smd.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\iqm.h
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\renderparticles.cpp
+	"engine.h"
+	"rendertarget.h"
+	"depthfx.h"
+	"explosion.h"
+	"lensflare.h"
+	"lightning.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\depthfx.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\explosion.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\lensflare.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\lightning.h
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\rendersky.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\rendertext.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\renderva.cpp
+	"engine.h"
+
+1359857012 source:c:\program files (x86)\sauerbraten\src\engine\server.cpp
+	"engine.h"
+	"shellapi.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\serverbrowser.cpp
+	"engine.h"
+	"SDL_thread.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\shader.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\shadowmap.cpp
+	"engine.h"
+	"rendertarget.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\sound.cpp
+	"engine.h"
+	"SDL_mixer.h"
+	<wchar.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/mman.h>
+	<fcntl.h>
+	<wchar.h>
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\texture.cpp
+	"engine.h"
+	"scale.h"
+	"scale.h"
+	"scale.h"
+	"scale.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\engine\scale.h
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\water.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\world.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\engine\worldio.cpp
+	"engine.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\fpsgame\ai.cpp
+	"game.h"
+
+1387484626 c:\program files (x86)\sauerbraten\src\fpsgame\game.h
+	"cube.h"
+	"ai.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\fpsgame\client.cpp
+	"game.h"
+	"capture.h"
+	"ctf.h"
+	"collect.h"
+	"capture.h"
+	"ctf.h"
+	"collect.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\fpsgame\capture.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\fpsgame\ctf.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\fpsgame\collect.h
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\fpsgame\entities.cpp
+	"game.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\fpsgame\fps.cpp
+	"game.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\fpsgame\monster.cpp
+	"game.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\fpsgame\movable.cpp
+	"game.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\fpsgame\render.cpp
+	"game.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\fpsgame\scoreboard.cpp
+	"game.h"
+
+1359857000 source:c:\program files (x86)\sauerbraten\src\fpsgame\server.cpp
+	"game.h"
+	"capture.h"
+	"ctf.h"
+	"collect.h"
+	"capture.h"
+	"ctf.h"
+	"collect.h"
+	"extinfo.h"
+	"aiman.h"
+
+1359216976 c:\program files (x86)\sauerbraten\src\fpsgame\extinfo.h
+
+1359216976 c:\program files (x86)\sauerbraten\src\fpsgame\aiman.h
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\fpsgame\waypoint.cpp
+	"game.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\fpsgame\weapon.cpp
+	"game.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\shared\crypto.cpp
+	"cube.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\shared\geom.cpp
+	"cube.h"
+
+1359856954 source:c:\program files (x86)\sauerbraten\src\shared\stream.cpp
+	"cube.h"
+	<shlobj.h>
+	<unistd.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<dirent.h>
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\shared\tools.cpp
+	"cube.h"
+	<unistd.h>
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\shared\zip.cpp
+	"cube.h"
+
+1359216976 source:c:\program files (x86)\sauerbraten\src\vcpp\mingw.rc
+	"sauerbraten.rc"
+
+1359216976 c:\program files (x86)\sauerbraten\src\vcpp\sauerbraten.rc
+	"winresrc.h"
+
+1385524191 source:c:\program files (x86)\sauerbraten\src\engine\menus.cpp
+	"engine.h"
+	"..\SQLite\SQLiteConnector.h"
+	"..\SQLite\savedGame.h"
+	"..\SQLite\Achievement.h"
+
+1385503605 c:\program files (x86)\sauerbraten\src\sqlite\sqliteconnector.h
+	"..\engine\engine.h"
+	"savedGame.h"
+	"Achievement.h"
+	"sqlite3.h"
+	<string.h>
+
+1385444060 c:\program files (x86)\sauerbraten\src\sqlite\savedgame.h
+	"..\engine\engine.h"
+	"..\shared\tools.h"
+	<string.h>
+
+1382057852 c:\program files (x86)\sauerbraten\src\sqlite\sqlite3.h
+	<stdarg.h>
+
+1385498399 source:c:\program files (x86)\sauerbraten\src\fpsgame\savegame.cpp
+	"..\engine\engine.h"
+	"..\SQLite\SQLiteConnector.h"
+	"..\SQLite\savedGame.h"
+	"game.h"
+
+1385275956 source:c:\program files (x86)\sauerbraten\src\sqlite\savedgame.cpp
+	"savedGame.h"
+	"engine.h"
+
+1382057852 source:c:\program files (x86)\sauerbraten\src\sqlite\sqlite3.c
+	<stdarg.h>
+	"config.h"
+	<stdint.h>
+	<inttypes.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<windows.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/file.h>
+	<sys/param.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	<sys/cygwin.h>
+	<errno.h>
+	<tcl.h>
+	"sqlite3rtree.h"
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+
+1383661698 source:c:\program files (x86)\sauerbraten\src\sqlite\sqlite_main.cpp
+	"sqlite3.h"
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<cstdlib>
+
+1385521135 source:c:\program files (x86)\sauerbraten\src\sqlite\sqliteconnector.cpp
+	"SQLiteConnector.h"
+	"savedGame.h"
+	"Achievement.h"
+
+1385496636 c:\program files (x86)\sauerbraten\src\sqlite\achievement.h
+	"..\engine\engine.h"
+	"..\shared\tools.h"
+	<string.h>
+
+1385337131 source:c:\program files (x86)\sauerbraten\src\sqlite\achievement.cpp
+	"Achievement.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\engine.h
+	"cube.h"
+	"world.h"
+	"octa.h"
+	"lightmap.h"
+	"bih.h"
+	"texture.h"
+	"model.h"
+	"varray.h"
+
+1359216976 c:\infernal underground beta\src\shared\cube.h
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdarg.h>
+	<limits.h>
+	<assert.h>
+	<time.h>
+	"windows.h"
+	<eh.h>
+	<dbghelp.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_opengl.h>
+	<enet/enet.h>
+	<zlib.h>
+	"tools.h"
+	"geom.h"
+	"ents.h"
+	"command.h"
+	"iengine.h"
+	"igame.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_platform.h
+
+1359216976 c:\infernal underground beta\src\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1359216976 c:\infernal underground beta\src\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1359216976 c:\infernal underground beta\src\include\begin_code.h
+
+1359216976 c:\infernal underground beta\src\include\close_code.h
+
+1359216976 c:\infernal underground beta\src\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_keysym.h
+
+1359216976 c:\infernal underground beta\src\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_opengl.h
+	"SDL_config.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<gl.h>
+	<glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<stddef.h>
+
+1359216976 c:\infernal underground beta\src\enet\include\enet\enet.h
+	<stdlib.h>
+	"enet/win32.h"
+	"enet/unix.h"
+	"enet/types.h"
+	"enet/protocol.h"
+	"enet/list.h"
+	"enet/callbacks.h"
+
+1359216976 c:\infernal underground beta\src\enet\include\enet\win32.h
+	<stdlib.h>
+	<winsock2.h>
+
+1359216976 c:\infernal underground beta\src\enet\include\enet\unix.h
+	<stdlib.h>
+	<sys/time.h>
+	<sys/types.h>
+	<netinet/in.h>
+	<unistd.h>
+
+1359216976 c:\infernal underground beta\src\enet\include\enet\types.h
+
+1359216976 c:\infernal underground beta\src\enet\include\enet\protocol.h
+	"enet/types.h"
+
+1359216976 c:\infernal underground beta\src\enet\include\enet\list.h
+	<stdlib.h>
+
+1359216976 c:\infernal underground beta\src\enet\include\enet\callbacks.h
+	<stdlib.h>
+
+1359216976 c:\infernal underground beta\src\include\zlib.h
+	"zconf.h"
+
+1359216976 c:\infernal underground beta\src\include\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1385477392 c:\infernal underground beta\src\shared\tools.h
+
+1359216976 c:\infernal underground beta\src\shared\geom.h
+
+1359216976 c:\infernal underground beta\src\shared\ents.h
+
+1359216976 c:\infernal underground beta\src\shared\command.h
+
+1359216976 c:\infernal underground beta\src\shared\iengine.h
+
+1359216976 c:\infernal underground beta\src\shared\igame.h
+
+1359216976 c:\infernal underground beta\src\engine\world.h
+
+1359216976 c:\infernal underground beta\src\engine\octa.h
+
+1359216976 c:\infernal underground beta\src\engine\lightmap.h
+
+1359216976 c:\infernal underground beta\src\engine\bih.h
+
+1359216976 c:\infernal underground beta\src\engine\texture.h
+
+1359216976 c:\infernal underground beta\src\engine\model.h
+
+1359216976 c:\infernal underground beta\src\engine\varray.h
+
+1387484626 source:c:\infernal underground beta\src\fpsgame\game.h
+	"cube.h"
+	"ai.h"
+
+1359216976 c:\infernal underground beta\src\fpsgame\ai.h
+
+1359216976 source:c:\infernal underground beta\src\shared\cube.h
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdarg.h>
+	<limits.h>
+	<assert.h>
+	<time.h>
+	"windows.h"
+	<eh.h>
+	<dbghelp.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_opengl.h>
+	<enet/enet.h>
+	<zlib.h>
+	"tools.h"
+	"geom.h"
+	"ents.h"
+	"command.h"
+	"iengine.h"
+	"igame.h"
+
+1377140490 source:c:\infernal underground beta\src\engine\3dgui.cpp
+	"engine.h"
+	"textedit.h"
+
+1359216976 c:\infernal underground beta\src\engine\engine.h
+	"cube.h"
+	"world.h"
+	"octa.h"
+	"lightmap.h"
+	"bih.h"
+	"texture.h"
+	"model.h"
+	"varray.h"
+
+1382682724 c:\infernal underground beta\src\engine\textedit.h
+
+1359216976 source:c:\infernal underground beta\src\engine\bih.cpp
+	"engine.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\blend.cpp
+	"engine.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\blob.cpp
+	"engine.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\client.cpp
+	"engine.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\command.cpp
+	"engine.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\console.cpp
+	"engine.h"
+	<X11/Xlib.h>
+	<SDL_syswm.h>
+
+1359216976 c:\infernal underground beta\src\include\sdl_syswm.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_version.h"
+	"begin_code.h"
+	<X11/Xlib.h>
+	<X11/Xatom.h>
+	<microwin/nano-X.h>
+	<windows.h>
+	<sys/neutrino.h>
+	<Ph.h>
+	"close_code.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\cubeloader.cpp
+	"engine.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\decal.cpp
+	"engine.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\dynlight.cpp
+	"engine.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\glare.cpp
+	"engine.h"
+	"rendertarget.h"
+
+1359216976 c:\infernal underground beta\src\engine\rendertarget.h
+
+1359216976 source:c:\infernal underground beta\src\engine\grass.cpp
+	"engine.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\lightmap.cpp
+	"engine.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\main.cpp
+	"engine.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\material.cpp
+	"engine.h"
+
+1385524191 source:c:\infernal underground beta\src\engine\menus.cpp
+	"engine.h"
+	"..\SQLite\SQLiteConnector.h"
+	"..\SQLite\savedGame.h"
+	"..\SQLite\Achievement.h"
+
+1385503605 c:\infernal underground beta\src\sqlite\sqliteconnector.h
+	"..\engine\engine.h"
+	"savedGame.h"
+	"Achievement.h"
+	"sqlite3.h"
+	<string.h>
+
+1385444060 c:\infernal underground beta\src\sqlite\savedgame.h
+	"..\engine\engine.h"
+	"..\shared\tools.h"
+	<string.h>
+
+1385496636 c:\infernal underground beta\src\sqlite\achievement.h
+	"..\engine\engine.h"
+	"..\shared\tools.h"
+	<string.h>
+
+1382057852 c:\infernal underground beta\src\sqlite\sqlite3.h
+	<stdarg.h>
+
+1359216976 source:c:\infernal underground beta\src\engine\movie.cpp
+	"engine.h"
+	"SDL_mixer.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\infernal underground beta\src\include\sdl_types.h
+	"SDL_stdinc.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\normal.cpp
+	"engine.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\octa.cpp
+	"engine.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\octaedit.cpp
+	"engine.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\octarender.cpp
+	"engine.h"
+
+1377297736 source:c:\infernal underground beta\src\engine\physics.cpp
+	"engine.h"
+	"mpr.h"
+
+1359216976 c:\infernal underground beta\src\engine\mpr.h
+
+1359216976 source:c:\infernal underground beta\src\engine\pvs.cpp
+	"engine.h"
+	"SDL_thread.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\rendergl.cpp
+	"engine.h"
+	"varray.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\rendermodel.cpp
+	"engine.h"
+	"ragdoll.h"
+	"animmodel.h"
+	"vertmodel.h"
+	"skelmodel.h"
+	"md2.h"
+	"md3.h"
+	"md5.h"
+	"obj.h"
+	"smd.h"
+	"iqm.h"
+
+1359216976 c:\infernal underground beta\src\engine\ragdoll.h
+
+1359216976 c:\infernal underground beta\src\engine\animmodel.h
+
+1359216976 c:\infernal underground beta\src\engine\vertmodel.h
+
+1359216976 c:\infernal underground beta\src\engine\skelmodel.h
+
+1359216976 c:\infernal underground beta\src\engine\md2.h
+
+1359216976 c:\infernal underground beta\src\engine\md3.h
+
+1359216976 c:\infernal underground beta\src\engine\md5.h
+
+1359216976 c:\infernal underground beta\src\engine\obj.h
+
+1359216976 c:\infernal underground beta\src\engine\smd.h
+
+1359216976 c:\infernal underground beta\src\engine\iqm.h
+
+1359216976 source:c:\infernal underground beta\src\engine\renderparticles.cpp
+	"engine.h"
+	"rendertarget.h"
+	"depthfx.h"
+	"explosion.h"
+	"lensflare.h"
+	"lightning.h"
+
+1359216976 c:\infernal underground beta\src\engine\depthfx.h
+
+1359216976 c:\infernal underground beta\src\engine\explosion.h
+
+1359216976 c:\infernal underground beta\src\engine\lensflare.h
+
+1359216976 c:\infernal underground beta\src\engine\lightning.h
+
+1359216976 source:c:\infernal underground beta\src\engine\rendersky.cpp
+	"engine.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\rendertext.cpp
+	"engine.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\renderva.cpp
+	"engine.h"
+
+1359857012 source:c:\infernal underground beta\src\engine\server.cpp
+	"engine.h"
+	"shellapi.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\serverbrowser.cpp
+	"engine.h"
+	"SDL_thread.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\shader.cpp
+	"engine.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\shadowmap.cpp
+	"engine.h"
+	"rendertarget.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\sound.cpp
+	"engine.h"
+	"SDL_mixer.h"
+	<wchar.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/mman.h>
+	<fcntl.h>
+	<wchar.h>
+
+1359216976 source:c:\infernal underground beta\src\engine\texture.cpp
+	"engine.h"
+	"scale.h"
+	"scale.h"
+	"scale.h"
+	"scale.h"
+
+1359216976 c:\infernal underground beta\src\engine\scale.h
+
+1359216976 source:c:\infernal underground beta\src\engine\water.cpp
+	"engine.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\world.cpp
+	"engine.h"
+
+1359216976 source:c:\infernal underground beta\src\engine\worldio.cpp
+	"engine.h"
+
+1359216976 source:c:\infernal underground beta\src\fpsgame\ai.cpp
+	"game.h"
+
+1387484626 c:\infernal underground beta\src\fpsgame\game.h
+	"cube.h"
+	"ai.h"
+
+1359216976 source:c:\infernal underground beta\src\fpsgame\client.cpp
+	"game.h"
+	"capture.h"
+	"ctf.h"
+	"collect.h"
+	"capture.h"
+	"ctf.h"
+	"collect.h"
+
+1359216976 c:\infernal underground beta\src\fpsgame\capture.h
+
+1359216976 c:\infernal underground beta\src\fpsgame\ctf.h
+
+1359216976 c:\infernal underground beta\src\fpsgame\collect.h
+
+1359216976 source:c:\infernal underground beta\src\fpsgame\entities.cpp
+	"game.h"
+
+1359216976 source:c:\infernal underground beta\src\fpsgame\fps.cpp
+	"game.h"
+
+1359216976 source:c:\infernal underground beta\src\fpsgame\monster.cpp
+	"game.h"
+
+1359216976 source:c:\infernal underground beta\src\fpsgame\movable.cpp
+	"game.h"
+
+1359216976 source:c:\infernal underground beta\src\fpsgame\render.cpp
+	"game.h"
+
+1385498399 source:c:\infernal underground beta\src\fpsgame\savegame.cpp
+	"..\engine\engine.h"
+	"..\SQLite\SQLiteConnector.h"
+	"..\SQLite\savedGame.h"
+	"game.h"
+
+1359216976 source:c:\infernal underground beta\src\fpsgame\scoreboard.cpp
+	"game.h"
+
+1359857000 source:c:\infernal underground beta\src\fpsgame\server.cpp
+	"game.h"
+	"capture.h"
+	"ctf.h"
+	"collect.h"
+	"capture.h"
+	"ctf.h"
+	"collect.h"
+	"extinfo.h"
+	"aiman.h"
+
+1359216976 c:\infernal underground beta\src\fpsgame\extinfo.h
+
+1359216976 c:\infernal underground beta\src\fpsgame\aiman.h
+
+1359216976 source:c:\infernal underground beta\src\fpsgame\waypoint.cpp
+	"game.h"
+
+1359216976 source:c:\infernal underground beta\src\fpsgame\weapon.cpp
+	"game.h"
+
+1359216976 source:c:\infernal underground beta\src\shared\crypto.cpp
+	"cube.h"
+
+1359216976 source:c:\infernal underground beta\src\shared\geom.cpp
+	"cube.h"
+
+1359856954 source:c:\infernal underground beta\src\shared\stream.cpp
+	"cube.h"
+	<shlobj.h>
+	<unistd.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<dirent.h>
+
+1359216976 source:c:\infernal underground beta\src\shared\tools.cpp
+	"cube.h"
+	<unistd.h>
+
+1359216976 source:c:\infernal underground beta\src\shared\zip.cpp
+	"cube.h"
+
+1385337131 source:c:\infernal underground beta\src\sqlite\achievement.cpp
+	"Achievement.h"
+
+1385275956 source:c:\infernal underground beta\src\sqlite\savedgame.cpp
+	"savedGame.h"
+	"engine.h"
+
+1382057852 source:c:\infernal underground beta\src\sqlite\sqlite3.c
+	<stdarg.h>
+	"config.h"
+	<stdint.h>
+	<inttypes.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<windows.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/file.h>
+	<sys/param.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	<sys/cygwin.h>
+	<errno.h>
+	<tcl.h>
+	"sqlite3rtree.h"
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+
+1383661698 source:c:\infernal underground beta\src\sqlite\sqlite_main.cpp
+	"sqlite3.h"
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<cstdlib>
+
+1385521135 source:c:\infernal underground beta\src\sqlite\sqliteconnector.cpp
+	"SQLiteConnector.h"
+	"savedGame.h"
+	"Achievement.h"
+
+1359216976 source:c:\infernal underground beta\src\vcpp\mingw.rc
+	"sauerbraten.rc"
+
+1359216976 c:\infernal underground beta\src\vcpp\sauerbraten.rc
+	"winresrc.h"
+
