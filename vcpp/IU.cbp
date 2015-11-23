@@ -11,7 +11,7 @@
 				<Option working_dir="../../" />
 				<Option object_output=".objs/client64" />
 				<Option type="0" />
-				<Option compiler="gcc" />
+				<Option compiler="mingw_x64" />
 				<Option parameters="-t0 -w640 -h480 -qhome" />
 				<Compiler>
 					<Add option="-fomit-frame-pointer" />
@@ -27,6 +27,7 @@
 					<Add directory="../shared" />
 					<Add directory="../vcpp" />
 					<Add directory="../fpsgame" />
+					<Add directory="../SQLite" />
 				</Compiler>
 				<ResourceCompiler>
 					<Add directory="../vcpp" />

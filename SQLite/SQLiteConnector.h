@@ -1,6 +1,6 @@
 #ifndef SQLITECONNECTOR_H
 #define SQLITECONNECTOR_H
-#include "..\engine\engine.h"
+#include "../engine/engine.h"
 #include "savedGame.h"
 #include "Achievement.h"
 #include "sqlite3.h"

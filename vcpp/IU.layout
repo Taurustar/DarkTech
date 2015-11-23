@@ -1,44 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
-	<ActiveTarget name="All" />
+	<ActiveTarget name="client64" />
 	<File name="..\fpsgame\savegame.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="176" topLine="2" />
+			<Cursor1 position="176" topLine="1" />
 		</Cursor>
 	</File>
-	<File name="..\fpsgame\game.h" open="1" top="1" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="..\fpsgame\game.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="18861" topLine="361" />
-		</Cursor>
-	</File>
-	<File name="..\engine\md5.h" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="132" topLine="399" />
-		</Cursor>
-	</File>
-	<File name="..\shared\igame.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="2430" topLine="52" />
-		</Cursor>
-	</File>
-	<File name="..\SQLite\Achievement.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="650" topLine="3" />
-		</Cursor>
-	</File>
-	<File name="..\SQLite\SQLiteConnector.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="3978" topLine="137" />
-		</Cursor>
-	</File>
-	<File name="..\SQLite\savedGame.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="42" topLine="12" />
-		</Cursor>
-	</File>
-	<File name="..\SQLite\SQLiteConnector.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="476" topLine="9" />
+			<Cursor1 position="18861" topLine="276" />
 		</Cursor>
 	</File>
 	<File name="..\fpsgame\fps.cpp" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -46,9 +16,29 @@
 			<Cursor1 position="21824" topLine="731" />
 		</Cursor>
 	</File>
-	<File name="..\fpsgame\client.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="..\SQLite\savedGame.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="18590" topLine="531" />
+			<Cursor1 position="71" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\SQLite\SQLiteConnector.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3978" topLine="107" />
+		</Cursor>
+	</File>
+	<File name="..\engine\md5.h" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="132" topLine="399" />
+		</Cursor>
+	</File>
+	<File name="..\engine\menus.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="20317" topLine="728" />
+		</Cursor>
+	</File>
+	<File name="..\fpsgame\entities.cpp" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="23292" topLine="640" />
 		</Cursor>
 	</File>
 	<File name="..\fpsgame\server.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -56,9 +46,34 @@
 			<Cursor1 position="68729" topLine="2160" />
 		</Cursor>
 	</File>
-	<File name="..\engine\menus.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="..\engine\world.cpp" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="11541" topLine="448" />
+			<Cursor1 position="22863" topLine="791" />
+		</Cursor>
+	</File>
+	<File name="..\engine\physics.cpp" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="38841" topLine="1107" />
+		</Cursor>
+	</File>
+	<File name="..\SQLite\SQLiteConnector.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="83" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\SQLite\Achievement.h" open="1" top="1" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="394" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\shared\igame.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="196" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\fpsgame\client.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="18590" topLine="531" />
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>

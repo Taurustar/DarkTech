@@ -1,7 +1,7 @@
 #ifndef ACHIEVEMENT_H
 #define ACHIEVEMENT_H
-#include "..\engine\engine.h"
-#include "..\shared\tools.h"
+#include "../engine/engine.h"
+#include "../shared/tools.h"
 #include <string.h>
 
 class Achievement

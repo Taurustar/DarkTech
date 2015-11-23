@@ -1,11 +1,9 @@
 #ifndef SAVEDGAME_H
 #define SAVEDGAME_H
-#include "..\engine\engine.h"
-#include "..\shared\tools.h"
+#include "../engine/engine.h"
+#include "../shared/tools.h"
 #include <string.h>
-
-class savedGame
-{
+class savedGame{
     public:
         savedGame();
         char* getName()

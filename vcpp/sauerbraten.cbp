@@ -98,6 +98,8 @@
 		<VirtualTargets>
 			<Add alias="All" targets="client32;client64;" />
 		</VirtualTargets>
+		<Unit filename="../SQLite/Achievement.cpp" />
+		<Unit filename="../SQLite/Achievement.h" />
 		<Unit filename="../SQLite/SQLiteConnector.cpp" />
 		<Unit filename="../SQLite/SQLiteConnector.h" />
 		<Unit filename="../SQLite/SQLite_main.cpp" />

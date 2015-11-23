@@ -750,7 +750,7 @@
 1385337131 source:c:\program files (x86)\sauerbraten\src\sqlite\achievement.cpp
 	"Achievement.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\engine.h
+1359220576 source:e:\new folder\sauerbraten\src\engine\engine.h
 	"cube.h"
 	"world.h"
 	"octa.h"
@@ -760,7 +760,7 @@
 	"model.h"
 	"varray.h"
 
-1359216976 c:\infernal underground beta\src\shared\cube.h
+1359220576 e:\new folder\sauerbraten\src\shared\cube.h
 	<math.h>
 	<string.h>
 	<stdio.h>
@@ -785,7 +785,7 @@
 	"iengine.h"
 	"igame.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl.h
 	"SDL_main.h"
 	"SDL_stdinc.h"
 	"SDL_audio.h"
@@ -804,14 +804,14 @@
 	"begin_code.h"
 	"close_code.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_main.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_main.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 	"begin_code.h"
 	"close_code.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_stdinc.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_stdinc.h
 	"SDL_config.h"
 	<sys/types.h>
 	<stdio.h>
@@ -837,7 +837,7 @@
 	<stdlib.h>
 	"close_code.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_config.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_config.h
 	"SDL_platform.h"
 	"SDL_config_dreamcast.h"
 	"SDL_config_macos.h"
@@ -847,20 +847,20 @@
 	"SDL_config_os2.h"
 	"SDL_config_minimal.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_platform.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_platform.h
 
-1359216976 c:\infernal underground beta\src\include\sdl_config_macosx.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_config_macosx.h
 	"SDL_platform.h"
 	<AvailabilityMacros.h>
 
-1359216976 c:\infernal underground beta\src\include\sdl_config_win32.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_config_win32.h
 	"SDL_platform.h"
 
-1359216976 c:\infernal underground beta\src\include\begin_code.h
+1359220576 e:\new folder\sauerbraten\src\include\begin_code.h
 
-1359216976 c:\infernal underground beta\src\include\close_code.h
+1359220576 e:\new folder\sauerbraten\src\include\close_code.h
 
-1359216976 c:\infernal underground beta\src\include\sdl_audio.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_audio.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_endian.h"
@@ -870,24 +870,24 @@
 	"begin_code.h"
 	"close_code.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_error.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_error.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_endian.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_endian.h
 	"SDL_stdinc.h"
 	<endian.h>
 	"begin_code.h"
 	"close_code.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_mutex.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_mutex.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_thread.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_thread.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_mutex.h"
@@ -895,24 +895,24 @@
 	<process.h>
 	"close_code.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_rwops.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_rwops.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_cdrom.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_cdrom.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_cpuinfo.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_cpuinfo.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_events.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_events.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_active.h"
@@ -923,69 +923,69 @@
 	"begin_code.h"
 	"close_code.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_active.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_active.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_keyboard.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_keyboard.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_keysym.h"
 	"begin_code.h"
 	"close_code.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_keysym.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_keysym.h
 
-1359216976 c:\infernal underground beta\src\include\sdl_mouse.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_mouse.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_video.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_video.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_rwops.h"
 	"begin_code.h"
 	"close_code.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_joystick.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_joystick.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_quit.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_quit.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_loadso.h
-	"SDL_stdinc.h"
-	"SDL_error.h"
-	"begin_code.h"
-	"close_code.h"
-
-1359216976 c:\infernal underground beta\src\include\sdl_timer.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_loadso.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_version.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359220576 e:\new folder\sauerbraten\src\include\sdl_version.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_image.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_image.h
 	"SDL.h"
 	"SDL_version.h"
 	"begin_code.h"
 	"close_code.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_opengl.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_opengl.h
 	"SDL_config.h"
 	<windows.h>
 	<OpenGL/gl.h>
@@ -997,7 +997,7 @@
 	<windows.h>
 	<stddef.h>
 
-1359216976 c:\infernal underground beta\src\enet\include\enet\enet.h
+1359220576 e:\new folder\sauerbraten\src\enet\include\enet\enet.h
 	<stdlib.h>
 	"enet/win32.h"
 	"enet/unix.h"
@@ -1006,70 +1006,70 @@
 	"enet/list.h"
 	"enet/callbacks.h"
 
-1359216976 c:\infernal underground beta\src\enet\include\enet\win32.h
+1359220576 e:\new folder\sauerbraten\src\enet\include\enet\win32.h
 	<stdlib.h>
 	<winsock2.h>
 
-1359216976 c:\infernal underground beta\src\enet\include\enet\unix.h
+1359220576 e:\new folder\sauerbraten\src\enet\include\enet\unix.h
 	<stdlib.h>
 	<sys/time.h>
 	<sys/types.h>
 	<netinet/in.h>
 	<unistd.h>
 
-1359216976 c:\infernal underground beta\src\enet\include\enet\types.h
+1359220576 e:\new folder\sauerbraten\src\enet\include\enet\types.h
 
-1359216976 c:\infernal underground beta\src\enet\include\enet\protocol.h
+1359220576 e:\new folder\sauerbraten\src\enet\include\enet\protocol.h
 	"enet/types.h"
 
-1359216976 c:\infernal underground beta\src\enet\include\enet\list.h
+1359220576 e:\new folder\sauerbraten\src\enet\include\enet\list.h
 	<stdlib.h>
 
-1359216976 c:\infernal underground beta\src\enet\include\enet\callbacks.h
+1359220576 e:\new folder\sauerbraten\src\enet\include\enet\callbacks.h
 	<stdlib.h>
 
-1359216976 c:\infernal underground beta\src\include\zlib.h
+1359220576 e:\new folder\sauerbraten\src\include\zlib.h
 	"zconf.h"
 
-1359216976 c:\infernal underground beta\src\include\zconf.h
+1359220576 e:\new folder\sauerbraten\src\include\zconf.h
 	<windows.h>
 	<sys/types.h>
 	<unistd.h>
 	<unixio.h>
 
-1385477392 c:\infernal underground beta\src\shared\tools.h
+1385480992 e:\new folder\sauerbraten\src\shared\tools.h
 
-1359216976 c:\infernal underground beta\src\shared\geom.h
+1359220576 e:\new folder\sauerbraten\src\shared\geom.h
 
-1359216976 c:\infernal underground beta\src\shared\ents.h
+1359220576 e:\new folder\sauerbraten\src\shared\ents.h
 
-1359216976 c:\infernal underground beta\src\shared\command.h
+1359220576 e:\new folder\sauerbraten\src\shared\command.h
 
-1359216976 c:\infernal underground beta\src\shared\iengine.h
+1359220576 e:\new folder\sauerbraten\src\shared\iengine.h
 
-1359216976 c:\infernal underground beta\src\shared\igame.h
+1359220576 e:\new folder\sauerbraten\src\shared\igame.h
 
-1359216976 c:\infernal underground beta\src\engine\world.h
+1359220576 e:\new folder\sauerbraten\src\engine\world.h
 
-1359216976 c:\infernal underground beta\src\engine\octa.h
+1359220576 e:\new folder\sauerbraten\src\engine\octa.h
 
-1359216976 c:\infernal underground beta\src\engine\lightmap.h
+1359220576 e:\new folder\sauerbraten\src\engine\lightmap.h
 
-1359216976 c:\infernal underground beta\src\engine\bih.h
+1359220576 e:\new folder\sauerbraten\src\engine\bih.h
 
-1359216976 c:\infernal underground beta\src\engine\texture.h
+1359220576 e:\new folder\sauerbraten\src\engine\texture.h
 
-1359216976 c:\infernal underground beta\src\engine\model.h
+1359220576 e:\new folder\sauerbraten\src\engine\model.h
 
-1359216976 c:\infernal underground beta\src\engine\varray.h
+1359220576 e:\new folder\sauerbraten\src\engine\varray.h
 
-1387484626 source:c:\infernal underground beta\src\fpsgame\game.h
+1387488226 source:e:\new folder\sauerbraten\src\fpsgame\game.h
 	"cube.h"
 	"ai.h"
 
-1359216976 c:\infernal underground beta\src\fpsgame\ai.h
+1359220576 e:\new folder\sauerbraten\src\fpsgame\ai.h
 
-1359216976 source:c:\infernal underground beta\src\shared\cube.h
+1359220576 source:e:\new folder\sauerbraten\src\shared\cube.h
 	<math.h>
 	<string.h>
 	<stdio.h>
@@ -1094,11 +1094,11 @@
 	"iengine.h"
 	"igame.h"
 
-1377140490 source:c:\infernal underground beta\src\engine\3dgui.cpp
+1377144090 source:e:\new folder\sauerbraten\src\engine\3dgui.cpp
 	"engine.h"
 	"textedit.h"
 
-1359216976 c:\infernal underground beta\src\engine\engine.h
+1359220576 e:\new folder\sauerbraten\src\engine\engine.h
 	"cube.h"
 	"world.h"
 	"octa.h"
@@ -1108,29 +1108,29 @@
 	"model.h"
 	"varray.h"
 
-1382682724 c:\infernal underground beta\src\engine\textedit.h
+1382686324 e:\new folder\sauerbraten\src\engine\textedit.h
 
-1359216976 source:c:\infernal underground beta\src\engine\bih.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\bih.cpp
 	"engine.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\blend.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\blend.cpp
 	"engine.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\blob.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\blob.cpp
 	"engine.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\client.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\client.cpp
 	"engine.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\command.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\command.cpp
 	"engine.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\console.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\console.cpp
 	"engine.h"
 	<X11/Xlib.h>
 	<SDL_syswm.h>
 
-1359216976 c:\infernal underground beta\src\include\sdl_syswm.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_syswm.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_version.h"
@@ -1143,64 +1143,64 @@
 	<Ph.h>
 	"close_code.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\cubeloader.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\cubeloader.cpp
 	"engine.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\decal.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\decal.cpp
 	"engine.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\dynlight.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\dynlight.cpp
 	"engine.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\glare.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\glare.cpp
 	"engine.h"
 	"rendertarget.h"
 
-1359216976 c:\infernal underground beta\src\engine\rendertarget.h
+1359220576 e:\new folder\sauerbraten\src\engine\rendertarget.h
 
-1359216976 source:c:\infernal underground beta\src\engine\grass.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\grass.cpp
 	"engine.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\lightmap.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\lightmap.cpp
 	"engine.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\main.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\main.cpp
 	"engine.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\material.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\material.cpp
 	"engine.h"
 
-1385524191 source:c:\infernal underground beta\src\engine\menus.cpp
+1385527790 source:e:\new folder\sauerbraten\src\engine\menus.cpp
 	"engine.h"
 	"..\SQLite\SQLiteConnector.h"
 	"..\SQLite\savedGame.h"
 	"..\SQLite\Achievement.h"
 
-1385503605 c:\infernal underground beta\src\sqlite\sqliteconnector.h
+1385507204 e:\new folder\sauerbraten\src\sqlite\sqliteconnector.h
 	"..\engine\engine.h"
 	"savedGame.h"
 	"Achievement.h"
 	"sqlite3.h"
 	<string.h>
 
-1385444060 c:\infernal underground beta\src\sqlite\savedgame.h
+1385447660 e:\new folder\sauerbraten\src\sqlite\savedgame.h
 	"..\engine\engine.h"
 	"..\shared\tools.h"
 	<string.h>
 
-1385496636 c:\infernal underground beta\src\sqlite\achievement.h
+1385500236 e:\new folder\sauerbraten\src\sqlite\achievement.h
 	"..\engine\engine.h"
 	"..\shared\tools.h"
 	<string.h>
 
-1382057852 c:\infernal underground beta\src\sqlite\sqlite3.h
+1382061452 e:\new folder\sauerbraten\src\sqlite\sqlite3.h
 	<stdarg.h>
 
-1359216976 source:c:\infernal underground beta\src\engine\movie.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\movie.cpp
 	"engine.h"
 	"SDL_mixer.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_mixer.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_mixer.h
 	"SDL_types.h"
 	"SDL_rwops.h"
 	"SDL_audio.h"
@@ -1209,36 +1209,36 @@
 	"begin_code.h"
 	"close_code.h"
 
-1359216976 c:\infernal underground beta\src\include\sdl_types.h
+1359220576 e:\new folder\sauerbraten\src\include\sdl_types.h
 	"SDL_stdinc.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\normal.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\normal.cpp
 	"engine.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\octa.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\octa.cpp
 	"engine.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\octaedit.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\octaedit.cpp
 	"engine.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\octarender.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\octarender.cpp
 	"engine.h"
 
-1377297736 source:c:\infernal underground beta\src\engine\physics.cpp
+1377301336 source:e:\new folder\sauerbraten\src\engine\physics.cpp
 	"engine.h"
 	"mpr.h"
 
-1359216976 c:\infernal underground beta\src\engine\mpr.h
+1359220576 e:\new folder\sauerbraten\src\engine\mpr.h
 
-1359216976 source:c:\infernal underground beta\src\engine\pvs.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\pvs.cpp
 	"engine.h"
 	"SDL_thread.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\rendergl.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\rendergl.cpp
 	"engine.h"
 	"varray.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\rendermodel.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\rendermodel.cpp
 	"engine.h"
 	"ragdoll.h"
 	"animmodel.h"
@@ -1251,27 +1251,27 @@
 	"smd.h"
 	"iqm.h"
 
-1359216976 c:\infernal underground beta\src\engine\ragdoll.h
+1359220576 e:\new folder\sauerbraten\src\engine\ragdoll.h
 
-1359216976 c:\infernal underground beta\src\engine\animmodel.h
+1359220576 e:\new folder\sauerbraten\src\engine\animmodel.h
 
-1359216976 c:\infernal underground beta\src\engine\vertmodel.h
+1359220576 e:\new folder\sauerbraten\src\engine\vertmodel.h
 
-1359216976 c:\infernal underground beta\src\engine\skelmodel.h
+1359220576 e:\new folder\sauerbraten\src\engine\skelmodel.h
 
-1359216976 c:\infernal underground beta\src\engine\md2.h
+1359220576 e:\new folder\sauerbraten\src\engine\md2.h
 
-1359216976 c:\infernal underground beta\src\engine\md3.h
+1359220576 e:\new folder\sauerbraten\src\engine\md3.h
 
-1359216976 c:\infernal underground beta\src\engine\md5.h
+1359220576 e:\new folder\sauerbraten\src\engine\md5.h
 
-1359216976 c:\infernal underground beta\src\engine\obj.h
+1359220576 e:\new folder\sauerbraten\src\engine\obj.h
 
-1359216976 c:\infernal underground beta\src\engine\smd.h
+1359220576 e:\new folder\sauerbraten\src\engine\smd.h
 
-1359216976 c:\infernal underground beta\src\engine\iqm.h
+1359220576 e:\new folder\sauerbraten\src\engine\iqm.h
 
-1359216976 source:c:\infernal underground beta\src\engine\renderparticles.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\renderparticles.cpp
 	"engine.h"
 	"rendertarget.h"
 	"depthfx.h"
@@ -1279,39 +1279,39 @@
 	"lensflare.h"
 	"lightning.h"
 
-1359216976 c:\infernal underground beta\src\engine\depthfx.h
+1359220576 e:\new folder\sauerbraten\src\engine\depthfx.h
 
-1359216976 c:\infernal underground beta\src\engine\explosion.h
+1359220576 e:\new folder\sauerbraten\src\engine\explosion.h
 
-1359216976 c:\infernal underground beta\src\engine\lensflare.h
+1359220576 e:\new folder\sauerbraten\src\engine\lensflare.h
 
-1359216976 c:\infernal underground beta\src\engine\lightning.h
+1359220576 e:\new folder\sauerbraten\src\engine\lightning.h
 
-1359216976 source:c:\infernal underground beta\src\engine\rendersky.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\rendersky.cpp
 	"engine.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\rendertext.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\rendertext.cpp
 	"engine.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\renderva.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\renderva.cpp
 	"engine.h"
 
-1359857012 source:c:\infernal underground beta\src\engine\server.cpp
+1359860612 source:e:\new folder\sauerbraten\src\engine\server.cpp
 	"engine.h"
 	"shellapi.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\serverbrowser.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\serverbrowser.cpp
 	"engine.h"
 	"SDL_thread.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\shader.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\shader.cpp
 	"engine.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\shadowmap.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\shadowmap.cpp
 	"engine.h"
 	"rendertarget.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\sound.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\sound.cpp
 	"engine.h"
 	"SDL_mixer.h"
 	<wchar.h>
@@ -1322,32 +1322,32 @@
 	<fcntl.h>
 	<wchar.h>
 
-1359216976 source:c:\infernal underground beta\src\engine\texture.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\texture.cpp
 	"engine.h"
 	"scale.h"
 	"scale.h"
 	"scale.h"
 	"scale.h"
 
-1359216976 c:\infernal underground beta\src\engine\scale.h
+1359220576 e:\new folder\sauerbraten\src\engine\scale.h
 
-1359216976 source:c:\infernal underground beta\src\engine\water.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\water.cpp
 	"engine.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\world.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\world.cpp
 	"engine.h"
 
-1359216976 source:c:\infernal underground beta\src\engine\worldio.cpp
+1359220576 source:e:\new folder\sauerbraten\src\engine\worldio.cpp
 	"engine.h"
 
-1359216976 source:c:\infernal underground beta\src\fpsgame\ai.cpp
+1359220576 source:e:\new folder\sauerbraten\src\fpsgame\ai.cpp
 	"game.h"
 
-1387484626 c:\infernal underground beta\src\fpsgame\game.h
+1387488226 e:\new folder\sauerbraten\src\fpsgame\game.h
 	"cube.h"
 	"ai.h"
 
-1359216976 source:c:\infernal underground beta\src\fpsgame\client.cpp
+1359220576 source:e:\new folder\sauerbraten\src\fpsgame\client.cpp
 	"game.h"
 	"capture.h"
 	"ctf.h"
@@ -1356,37 +1356,37 @@
 	"ctf.h"
 	"collect.h"
 
-1359216976 c:\infernal underground beta\src\fpsgame\capture.h
+1359220576 e:\new folder\sauerbraten\src\fpsgame\capture.h
 
-1359216976 c:\infernal underground beta\src\fpsgame\ctf.h
+1359220576 e:\new folder\sauerbraten\src\fpsgame\ctf.h
 
-1359216976 c:\infernal underground beta\src\fpsgame\collect.h
+1359220576 e:\new folder\sauerbraten\src\fpsgame\collect.h
 
-1359216976 source:c:\infernal underground beta\src\fpsgame\entities.cpp
+1359220576 source:e:\new folder\sauerbraten\src\fpsgame\entities.cpp
 	"game.h"
 
-1359216976 source:c:\infernal underground beta\src\fpsgame\fps.cpp
+1359220576 source:e:\new folder\sauerbraten\src\fpsgame\fps.cpp
 	"game.h"
 
-1359216976 source:c:\infernal underground beta\src\fpsgame\monster.cpp
+1359220576 source:e:\new folder\sauerbraten\src\fpsgame\monster.cpp
 	"game.h"
 
-1359216976 source:c:\infernal underground beta\src\fpsgame\movable.cpp
+1359220576 source:e:\new folder\sauerbraten\src\fpsgame\movable.cpp
 	"game.h"
 
-1359216976 source:c:\infernal underground beta\src\fpsgame\render.cpp
+1359220576 source:e:\new folder\sauerbraten\src\fpsgame\render.cpp
 	"game.h"
 
-1385498399 source:c:\infernal underground beta\src\fpsgame\savegame.cpp
+1385501998 source:e:\new folder\sauerbraten\src\fpsgame\savegame.cpp
 	"..\engine\engine.h"
 	"..\SQLite\SQLiteConnector.h"
 	"..\SQLite\savedGame.h"
 	"game.h"
 
-1359216976 source:c:\infernal underground beta\src\fpsgame\scoreboard.cpp
+1359220576 source:e:\new folder\sauerbraten\src\fpsgame\scoreboard.cpp
 	"game.h"
 
-1359857000 source:c:\infernal underground beta\src\fpsgame\server.cpp
+1359860600 source:e:\new folder\sauerbraten\src\fpsgame\server.cpp
 	"game.h"
 	"capture.h"
 	"ctf.h"
@@ -1397,23 +1397,23 @@
 	"extinfo.h"
 	"aiman.h"
 
-1359216976 c:\infernal underground beta\src\fpsgame\extinfo.h
+1359220576 e:\new folder\sauerbraten\src\fpsgame\extinfo.h
 
-1359216976 c:\infernal underground beta\src\fpsgame\aiman.h
+1359220576 e:\new folder\sauerbraten\src\fpsgame\aiman.h
 
-1359216976 source:c:\infernal underground beta\src\fpsgame\waypoint.cpp
+1359220576 source:e:\new folder\sauerbraten\src\fpsgame\waypoint.cpp
 	"game.h"
 
-1359216976 source:c:\infernal underground beta\src\fpsgame\weapon.cpp
+1359220576 source:e:\new folder\sauerbraten\src\fpsgame\weapon.cpp
 	"game.h"
 
-1359216976 source:c:\infernal underground beta\src\shared\crypto.cpp
+1359220576 source:e:\new folder\sauerbraten\src\shared\crypto.cpp
 	"cube.h"
 
-1359216976 source:c:\infernal underground beta\src\shared\geom.cpp
+1359220576 source:e:\new folder\sauerbraten\src\shared\geom.cpp
 	"cube.h"
 
-1359856954 source:c:\infernal underground beta\src\shared\stream.cpp
+1359860554 source:e:\new folder\sauerbraten\src\shared\stream.cpp
 	"cube.h"
 	<shlobj.h>
 	<unistd.h>
@@ -1421,21 +1421,21 @@
 	<sys/types.h>
 	<dirent.h>
 
-1359216976 source:c:\infernal underground beta\src\shared\tools.cpp
+1359220576 source:e:\new folder\sauerbraten\src\shared\tools.cpp
 	"cube.h"
 	<unistd.h>
 
-1359216976 source:c:\infernal underground beta\src\shared\zip.cpp
+1359220576 source:e:\new folder\sauerbraten\src\shared\zip.cpp
 	"cube.h"
 
-1385337131 source:c:\infernal underground beta\src\sqlite\achievement.cpp
+1385340730 source:e:\new folder\sauerbraten\src\sqlite\achievement.cpp
 	"Achievement.h"
 
-1385275956 source:c:\infernal underground beta\src\sqlite\savedgame.cpp
+1385279556 source:e:\new folder\sauerbraten\src\sqlite\savedgame.cpp
 	"savedGame.h"
 	"engine.h"
 
-1382057852 source:c:\infernal underground beta\src\sqlite\sqlite3.c
+1382061452 source:e:\new folder\sauerbraten\src\sqlite\sqlite3.c
 	<stdarg.h>
 	"config.h"
 	<stdint.h>
@@ -1483,21 +1483,1523 @@
 	<unicode/ubrk.h>
 	<unicode/utf16.h>
 
-1383661698 source:c:\infernal underground beta\src\sqlite\sqlite_main.cpp
+1383665298 source:e:\new folder\sauerbraten\src\sqlite\sqlite_main.cpp
 	"sqlite3.h"
 	<iostream>
 	<iomanip>
 	<stdio.h>
 	<cstdlib>
 
-1385521135 source:c:\infernal underground beta\src\sqlite\sqliteconnector.cpp
+1385524734 source:e:\new folder\sauerbraten\src\sqlite\sqliteconnector.cpp
 	"SQLiteConnector.h"
 	"savedGame.h"
 	"Achievement.h"
 
-1359216976 source:c:\infernal underground beta\src\vcpp\mingw.rc
+1359220576 source:e:\new folder\sauerbraten\src\vcpp\mingw.rc
 	"sauerbraten.rc"
 
-1359216976 c:\infernal underground beta\src\vcpp\sauerbraten.rc
+1359220576 e:\new folder\sauerbraten\src\vcpp\sauerbraten.rc
+	"winresrc.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\engine.h
+	"cube.h"
+	"world.h"
+	"octa.h"
+	"lightmap.h"
+	"bih.h"
+	"texture.h"
+	"model.h"
+	"varray.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\shared\cube.h
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdarg.h>
+	<limits.h>
+	<assert.h>
+	<time.h>
+	"windows.h"
+	<eh.h>
+	<dbghelp.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_opengl.h>
+	<enet/enet.h>
+	<zlib.h>
+	"tools.h"
+	"geom.h"
+	"ents.h"
+	"command.h"
+	"iengine.h"
+	"igame.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_platform.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\begin_code.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\close_code.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_keysym.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_opengl.h
+	"SDL_config.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<gl.h>
+	<glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<stddef.h>
+
+1359216976 c:\hexentic games\infernal underground\darktech\enet\include\enet\enet.h
+	<stdlib.h>
+	"enet/win32.h"
+	"enet/unix.h"
+	"enet/types.h"
+	"enet/protocol.h"
+	"enet/list.h"
+	"enet/callbacks.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\enet\include\enet\win32.h
+	<stdlib.h>
+	<winsock2.h>
+
+1359216976 c:\hexentic games\infernal underground\darktech\enet\include\enet\unix.h
+	<stdlib.h>
+	<sys/time.h>
+	<sys/types.h>
+	<netinet/in.h>
+	<unistd.h>
+
+1359216976 c:\hexentic games\infernal underground\darktech\enet\include\enet\types.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\enet\include\enet\protocol.h
+	"enet/types.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\enet\include\enet\list.h
+	<stdlib.h>
+
+1359216976 c:\hexentic games\infernal underground\darktech\enet\include\enet\callbacks.h
+	<stdlib.h>
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\zlib.h
+	"zconf.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1385477392 c:\hexentic games\infernal underground\darktech\shared\tools.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\shared\geom.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\shared\ents.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\shared\command.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\shared\iengine.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\shared\igame.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\world.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\octa.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\lightmap.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\bih.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\texture.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\model.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\varray.h
+
+1387484626 source:c:\hexentic games\infernal underground\darktech\fpsgame\game.h
+	"cube.h"
+	"ai.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\fpsgame\ai.h
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\shared\cube.h
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdarg.h>
+	<limits.h>
+	<assert.h>
+	<time.h>
+	"windows.h"
+	<eh.h>
+	<dbghelp.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_opengl.h>
+	<enet/enet.h>
+	<zlib.h>
+	"tools.h"
+	"geom.h"
+	"ents.h"
+	"command.h"
+	"iengine.h"
+	"igame.h"
+
+1377140490 source:c:\hexentic games\infernal underground\darktech\engine\3dgui.cpp
+	"engine.h"
+	"textedit.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\engine.h
+	"cube.h"
+	"world.h"
+	"octa.h"
+	"lightmap.h"
+	"bih.h"
+	"texture.h"
+	"model.h"
+	"varray.h"
+
+1382682724 c:\hexentic games\infernal underground\darktech\engine\textedit.h
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\bih.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\blend.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\blob.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\client.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\command.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\console.cpp
+	"engine.h"
+	<X11/Xlib.h>
+	<SDL_syswm.h>
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_syswm.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_version.h"
+	"begin_code.h"
+	<X11/Xlib.h>
+	<X11/Xatom.h>
+	<microwin/nano-X.h>
+	<windows.h>
+	<sys/neutrino.h>
+	<Ph.h>
+	"close_code.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\cubeloader.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\decal.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\dynlight.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\glare.cpp
+	"engine.h"
+	"rendertarget.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\rendertarget.h
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\grass.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\lightmap.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\main.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\material.cpp
+	"engine.h"
+
+1385524190 source:c:\hexentic games\infernal underground\darktech\engine\menus.cpp
+	"engine.h"
+	"..\SQLite\SQLiteConnector.h"
+	"..\SQLite\savedGame.h"
+	"..\SQLite\Achievement.h"
+
+1385503604 c:\hexentic games\infernal underground\darktech\sqlite\sqliteconnector.h
+	"..\engine\engine.h"
+	"savedGame.h"
+	"Achievement.h"
+	"sqlite3.h"
+	<string.h>
+
+1385444060 c:\hexentic games\infernal underground\darktech\sqlite\savedgame.h
+	"..\engine\engine.h"
+	"..\shared\tools.h"
+	<string.h>
+
+1385496636 c:\hexentic games\infernal underground\darktech\sqlite\achievement.h
+	"..\engine\engine.h"
+	"..\shared\tools.h"
+	<string.h>
+
+1382057852 c:\hexentic games\infernal underground\darktech\sqlite\sqlite3.h
+	<stdarg.h>
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\movie.cpp
+	"engine.h"
+	"SDL_mixer.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\include\sdl_types.h
+	"SDL_stdinc.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\normal.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\octa.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\octaedit.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\octarender.cpp
+	"engine.h"
+
+1377297736 source:c:\hexentic games\infernal underground\darktech\engine\physics.cpp
+	"engine.h"
+	"mpr.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\mpr.h
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\pvs.cpp
+	"engine.h"
+	"SDL_thread.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\rendergl.cpp
+	"engine.h"
+	"varray.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\rendermodel.cpp
+	"engine.h"
+	"ragdoll.h"
+	"animmodel.h"
+	"vertmodel.h"
+	"skelmodel.h"
+	"md2.h"
+	"md3.h"
+	"md5.h"
+	"obj.h"
+	"smd.h"
+	"iqm.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\ragdoll.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\animmodel.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\vertmodel.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\skelmodel.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\md2.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\md3.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\md5.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\obj.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\smd.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\iqm.h
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\renderparticles.cpp
+	"engine.h"
+	"rendertarget.h"
+	"depthfx.h"
+	"explosion.h"
+	"lensflare.h"
+	"lightning.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\depthfx.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\explosion.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\lensflare.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\lightning.h
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\rendersky.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\rendertext.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\renderva.cpp
+	"engine.h"
+
+1359857012 source:c:\hexentic games\infernal underground\darktech\engine\server.cpp
+	"engine.h"
+	"shellapi.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\serverbrowser.cpp
+	"engine.h"
+	"SDL_thread.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\shader.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\shadowmap.cpp
+	"engine.h"
+	"rendertarget.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\sound.cpp
+	"engine.h"
+	"SDL_mixer.h"
+	<wchar.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/mman.h>
+	<fcntl.h>
+	<wchar.h>
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\texture.cpp
+	"engine.h"
+	"scale.h"
+	"scale.h"
+	"scale.h"
+	"scale.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\engine\scale.h
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\water.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\world.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\engine\worldio.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\fpsgame\ai.cpp
+	"game.h"
+
+1387484626 c:\hexentic games\infernal underground\darktech\fpsgame\game.h
+	"cube.h"
+	"ai.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\fpsgame\client.cpp
+	"game.h"
+	"capture.h"
+	"ctf.h"
+	"collect.h"
+	"capture.h"
+	"ctf.h"
+	"collect.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\fpsgame\capture.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\fpsgame\ctf.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\fpsgame\collect.h
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\fpsgame\entities.cpp
+	"game.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\fpsgame\fps.cpp
+	"game.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\fpsgame\monster.cpp
+	"game.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\fpsgame\movable.cpp
+	"game.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\fpsgame\render.cpp
+	"game.h"
+
+1385498398 source:c:\hexentic games\infernal underground\darktech\fpsgame\savegame.cpp
+	"..\engine\engine.h"
+	"..\SQLite\SQLiteConnector.h"
+	"..\SQLite\savedGame.h"
+	"game.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\fpsgame\scoreboard.cpp
+	"game.h"
+
+1359857000 source:c:\hexentic games\infernal underground\darktech\fpsgame\server.cpp
+	"game.h"
+	"capture.h"
+	"ctf.h"
+	"collect.h"
+	"capture.h"
+	"ctf.h"
+	"collect.h"
+	"extinfo.h"
+	"aiman.h"
+
+1359216976 c:\hexentic games\infernal underground\darktech\fpsgame\extinfo.h
+
+1359216976 c:\hexentic games\infernal underground\darktech\fpsgame\aiman.h
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\fpsgame\waypoint.cpp
+	"game.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\fpsgame\weapon.cpp
+	"game.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\shared\crypto.cpp
+	"cube.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\shared\geom.cpp
+	"cube.h"
+
+1359856954 source:c:\hexentic games\infernal underground\darktech\shared\stream.cpp
+	"cube.h"
+	<shlobj.h>
+	<unistd.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<dirent.h>
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\shared\tools.cpp
+	"cube.h"
+	<unistd.h>
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\shared\zip.cpp
+	"cube.h"
+
+1385337130 source:c:\hexentic games\infernal underground\darktech\sqlite\achievement.cpp
+	"Achievement.h"
+
+1385275956 source:c:\hexentic games\infernal underground\darktech\sqlite\savedgame.cpp
+	"savedGame.h"
+	"engine.h"
+
+1382057852 source:c:\hexentic games\infernal underground\darktech\sqlite\sqlite3.c
+	<stdarg.h>
+	"config.h"
+	<stdint.h>
+	<inttypes.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<windows.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/file.h>
+	<sys/param.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	<sys/cygwin.h>
+	<errno.h>
+	<tcl.h>
+	"sqlite3rtree.h"
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+
+1383661698 source:c:\hexentic games\infernal underground\darktech\sqlite\sqlite_main.cpp
+	"sqlite3.h"
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<cstdlib>
+
+1385521134 source:c:\hexentic games\infernal underground\darktech\sqlite\sqliteconnector.cpp
+	"SQLiteConnector.h"
+	"savedGame.h"
+	"Achievement.h"
+
+1359216976 source:c:\hexentic games\infernal underground\darktech\vcpp\mingw.rc
+	"sauerbraten.rc"
+
+1359216976 c:\hexentic games\infernal underground\darktech\vcpp\sauerbraten.rc
+	"winresrc.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\engine.h
+	"cube.h"
+	"world.h"
+	"octa.h"
+	"lightmap.h"
+	"bih.h"
+	"texture.h"
+	"model.h"
+	"varray.h"
+
+1359216976 c:\hexentic games\infernal underground\src\shared\cube.h
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdarg.h>
+	<limits.h>
+	<assert.h>
+	<time.h>
+	"windows.h"
+	<eh.h>
+	<dbghelp.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_opengl.h>
+	<enet/enet.h>
+	<zlib.h>
+	"tools.h"
+	"geom.h"
+	"ents.h"
+	"command.h"
+	"iengine.h"
+	"igame.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_platform.h
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\begin_code.h
+
+1359216976 c:\hexentic games\infernal underground\src\include\close_code.h
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_keysym.h
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_opengl.h
+	"SDL_config.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<gl.h>
+	<glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<stddef.h>
+
+1359216976 c:\hexentic games\infernal underground\src\enet\include\enet\enet.h
+	<stdlib.h>
+	"enet/win32.h"
+	"enet/unix.h"
+	"enet/types.h"
+	"enet/protocol.h"
+	"enet/list.h"
+	"enet/callbacks.h"
+
+1359216976 c:\hexentic games\infernal underground\src\enet\include\enet\win32.h
+	<stdlib.h>
+	<winsock2.h>
+
+1359216976 c:\hexentic games\infernal underground\src\enet\include\enet\unix.h
+	<stdlib.h>
+	<sys/time.h>
+	<sys/types.h>
+	<netinet/in.h>
+	<unistd.h>
+
+1359216976 c:\hexentic games\infernal underground\src\enet\include\enet\types.h
+
+1359216976 c:\hexentic games\infernal underground\src\enet\include\enet\protocol.h
+	"enet/types.h"
+
+1359216976 c:\hexentic games\infernal underground\src\enet\include\enet\list.h
+	<stdlib.h>
+
+1359216976 c:\hexentic games\infernal underground\src\enet\include\enet\callbacks.h
+	<stdlib.h>
+
+1359216976 c:\hexentic games\infernal underground\src\include\zlib.h
+	"zconf.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1385477392 c:\hexentic games\infernal underground\src\shared\tools.h
+
+1359216976 c:\hexentic games\infernal underground\src\shared\geom.h
+
+1359216976 c:\hexentic games\infernal underground\src\shared\ents.h
+
+1359216976 c:\hexentic games\infernal underground\src\shared\command.h
+
+1359216976 c:\hexentic games\infernal underground\src\shared\iengine.h
+
+1359216976 c:\hexentic games\infernal underground\src\shared\igame.h
+
+1359216976 c:\hexentic games\infernal underground\src\engine\world.h
+
+1359216976 c:\hexentic games\infernal underground\src\engine\octa.h
+
+1359216976 c:\hexentic games\infernal underground\src\engine\lightmap.h
+
+1359216976 c:\hexentic games\infernal underground\src\engine\bih.h
+
+1359216976 c:\hexentic games\infernal underground\src\engine\texture.h
+
+1359216976 c:\hexentic games\infernal underground\src\engine\model.h
+
+1359216976 c:\hexentic games\infernal underground\src\engine\varray.h
+
+1387484626 source:c:\hexentic games\infernal underground\src\fpsgame\game.h
+	"cube.h"
+	"ai.h"
+
+1359216976 c:\hexentic games\infernal underground\src\fpsgame\ai.h
+
+1359216976 source:c:\hexentic games\infernal underground\src\shared\cube.h
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdarg.h>
+	<limits.h>
+	<assert.h>
+	<time.h>
+	"windows.h"
+	<eh.h>
+	<dbghelp.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_opengl.h>
+	<enet/enet.h>
+	<zlib.h>
+	"tools.h"
+	"geom.h"
+	"ents.h"
+	"command.h"
+	"iengine.h"
+	"igame.h"
+
+1377140490 source:c:\hexentic games\infernal underground\src\engine\3dgui.cpp
+	"engine.h"
+	"textedit.h"
+
+1359216976 c:\hexentic games\infernal underground\src\engine\engine.h
+	"cube.h"
+	"world.h"
+	"octa.h"
+	"lightmap.h"
+	"bih.h"
+	"texture.h"
+	"model.h"
+	"varray.h"
+
+1382682724 c:\hexentic games\infernal underground\src\engine\textedit.h
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\bih.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\blend.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\blob.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\client.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\command.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\console.cpp
+	"engine.h"
+	<X11/Xlib.h>
+	<SDL_syswm.h>
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_syswm.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_version.h"
+	"begin_code.h"
+	<X11/Xlib.h>
+	<X11/Xatom.h>
+	<microwin/nano-X.h>
+	<windows.h>
+	<sys/neutrino.h>
+	<Ph.h>
+	"close_code.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\cubeloader.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\decal.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\dynlight.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\glare.cpp
+	"engine.h"
+	"rendertarget.h"
+
+1359216976 c:\hexentic games\infernal underground\src\engine\rendertarget.h
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\grass.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\lightmap.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\main.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\material.cpp
+	"engine.h"
+
+1385524190 source:c:\hexentic games\infernal underground\src\engine\menus.cpp
+	"engine.h"
+	"..\SQLite\SQLiteConnector.h"
+	"..\SQLite\savedGame.h"
+	"..\SQLite\Achievement.h"
+
+1448255214 c:\hexentic games\infernal underground\src\sqlite\sqliteconnector.h
+	"../engine/engine.h"
+	"savedGame.h"
+	"Achievement.h"
+	"sqlite3.h"
+	<string.h>
+
+1448255435 c:\hexentic games\infernal underground\src\sqlite\savedgame.h
+	"../engine/engine.h"
+	"../shared/tools.h"
+	<string.h>
+
+1448255463 c:\hexentic games\infernal underground\src\sqlite\achievement.h
+	"../engine/engine.h"
+	"../shared/tools.h"
+	<string.h>
+
+1382057852 c:\hexentic games\infernal underground\src\sqlite\sqlite3.h
+	<stdarg.h>
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\movie.cpp
+	"engine.h"
+	"SDL_mixer.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1359216976 c:\hexentic games\infernal underground\src\include\sdl_types.h
+	"SDL_stdinc.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\normal.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\octa.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\octaedit.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\octarender.cpp
+	"engine.h"
+
+1377297736 source:c:\hexentic games\infernal underground\src\engine\physics.cpp
+	"engine.h"
+	"mpr.h"
+
+1359216976 c:\hexentic games\infernal underground\src\engine\mpr.h
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\pvs.cpp
+	"engine.h"
+	"SDL_thread.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\rendergl.cpp
+	"engine.h"
+	"varray.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\rendermodel.cpp
+	"engine.h"
+	"ragdoll.h"
+	"animmodel.h"
+	"vertmodel.h"
+	"skelmodel.h"
+	"md2.h"
+	"md3.h"
+	"md5.h"
+	"obj.h"
+	"smd.h"
+	"iqm.h"
+
+1359216976 c:\hexentic games\infernal underground\src\engine\ragdoll.h
+
+1359216976 c:\hexentic games\infernal underground\src\engine\animmodel.h
+
+1359216976 c:\hexentic games\infernal underground\src\engine\vertmodel.h
+
+1359216976 c:\hexentic games\infernal underground\src\engine\skelmodel.h
+
+1359216976 c:\hexentic games\infernal underground\src\engine\md2.h
+
+1359216976 c:\hexentic games\infernal underground\src\engine\md3.h
+
+1359216976 c:\hexentic games\infernal underground\src\engine\md5.h
+
+1359216976 c:\hexentic games\infernal underground\src\engine\obj.h
+
+1359216976 c:\hexentic games\infernal underground\src\engine\smd.h
+
+1359216976 c:\hexentic games\infernal underground\src\engine\iqm.h
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\renderparticles.cpp
+	"engine.h"
+	"rendertarget.h"
+	"depthfx.h"
+	"explosion.h"
+	"lensflare.h"
+	"lightning.h"
+
+1359216976 c:\hexentic games\infernal underground\src\engine\depthfx.h
+
+1359216976 c:\hexentic games\infernal underground\src\engine\explosion.h
+
+1359216976 c:\hexentic games\infernal underground\src\engine\lensflare.h
+
+1359216976 c:\hexentic games\infernal underground\src\engine\lightning.h
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\rendersky.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\rendertext.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\renderva.cpp
+	"engine.h"
+
+1359857012 source:c:\hexentic games\infernal underground\src\engine\server.cpp
+	"engine.h"
+	"shellapi.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\serverbrowser.cpp
+	"engine.h"
+	"SDL_thread.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\shader.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\shadowmap.cpp
+	"engine.h"
+	"rendertarget.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\sound.cpp
+	"engine.h"
+	"SDL_mixer.h"
+	<wchar.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/mman.h>
+	<fcntl.h>
+	<wchar.h>
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\texture.cpp
+	"engine.h"
+	"scale.h"
+	"scale.h"
+	"scale.h"
+	"scale.h"
+
+1359216976 c:\hexentic games\infernal underground\src\engine\scale.h
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\water.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\world.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\engine\worldio.cpp
+	"engine.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\fpsgame\ai.cpp
+	"game.h"
+
+1387484626 c:\hexentic games\infernal underground\src\fpsgame\game.h
+	"cube.h"
+	"ai.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\fpsgame\client.cpp
+	"game.h"
+	"capture.h"
+	"ctf.h"
+	"collect.h"
+	"capture.h"
+	"ctf.h"
+	"collect.h"
+
+1359216976 c:\hexentic games\infernal underground\src\fpsgame\capture.h
+
+1359216976 c:\hexentic games\infernal underground\src\fpsgame\ctf.h
+
+1359216976 c:\hexentic games\infernal underground\src\fpsgame\collect.h
+
+1359216976 source:c:\hexentic games\infernal underground\src\fpsgame\entities.cpp
+	"game.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\fpsgame\fps.cpp
+	"game.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\fpsgame\monster.cpp
+	"game.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\fpsgame\movable.cpp
+	"game.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\fpsgame\render.cpp
+	"game.h"
+
+1385498398 source:c:\hexentic games\infernal underground\src\fpsgame\savegame.cpp
+	"..\engine\engine.h"
+	"..\SQLite\SQLiteConnector.h"
+	"..\SQLite\savedGame.h"
+	"game.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\fpsgame\scoreboard.cpp
+	"game.h"
+
+1359857000 source:c:\hexentic games\infernal underground\src\fpsgame\server.cpp
+	"game.h"
+	"capture.h"
+	"ctf.h"
+	"collect.h"
+	"capture.h"
+	"ctf.h"
+	"collect.h"
+	"extinfo.h"
+	"aiman.h"
+
+1359216976 c:\hexentic games\infernal underground\src\fpsgame\extinfo.h
+
+1359216976 c:\hexentic games\infernal underground\src\fpsgame\aiman.h
+
+1359216976 source:c:\hexentic games\infernal underground\src\fpsgame\waypoint.cpp
+	"game.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\fpsgame\weapon.cpp
+	"game.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\shared\crypto.cpp
+	"cube.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\shared\geom.cpp
+	"cube.h"
+
+1359856954 source:c:\hexentic games\infernal underground\src\shared\stream.cpp
+	"cube.h"
+	<shlobj.h>
+	<unistd.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<dirent.h>
+
+1359216976 source:c:\hexentic games\infernal underground\src\shared\tools.cpp
+	"cube.h"
+	<unistd.h>
+
+1359216976 source:c:\hexentic games\infernal underground\src\shared\zip.cpp
+	"cube.h"
+
+1385337130 source:c:\hexentic games\infernal underground\src\sqlite\achievement.cpp
+	"Achievement.h"
+
+1385275956 source:c:\hexentic games\infernal underground\src\sqlite\savedgame.cpp
+	"savedGame.h"
+	"engine.h"
+
+1382057852 source:c:\hexentic games\infernal underground\src\sqlite\sqlite3.c
+	<stdarg.h>
+	"config.h"
+	<stdint.h>
+	<inttypes.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<windows.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/file.h>
+	<sys/param.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	<sys/cygwin.h>
+	<errno.h>
+	<tcl.h>
+	"sqlite3rtree.h"
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+
+1383661698 source:c:\hexentic games\infernal underground\src\sqlite\sqlite_main.cpp
+	"sqlite3.h"
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<cstdlib>
+
+1385521134 source:c:\hexentic games\infernal underground\src\sqlite\sqliteconnector.cpp
+	"SQLiteConnector.h"
+	"savedGame.h"
+	"Achievement.h"
+
+1359216976 source:c:\hexentic games\infernal underground\src\vcpp\mingw.rc
+	"sauerbraten.rc"
+
+1359216976 c:\hexentic games\infernal underground\src\vcpp\sauerbraten.rc
 	"winresrc.h"
 
